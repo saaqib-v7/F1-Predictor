@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv/
+venv/
+env/
+
+# Node / Vite
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
